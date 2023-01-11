@@ -1,4 +1,3 @@
-
 <p align="center">
 
 ![build status](https://github.com/mochi-co/mqtt/actions/workflows/build.yml/badge.svg) 
@@ -385,6 +384,7 @@ Million Message Challenge (hit the server with 1 million messages immediately):
 
 ## Stargazers over time 🥰
 [![Stargazers over time](https://starchart.cc/mochi-co/mqtt.svg)](https://starchart.cc/mochi-co/mqtt)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgolain-io%2Fmqtt.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgolain-io%2Fmqtt?ref=badge_shield)
 Are you using Mochi MQTT in a project? [Let us know!](https://github.com/mochi-co/mqtt/issues)
 
 ## Contributions
@@ -392,3 +392,7 @@ Contributions and feedback are both welcomed and encouraged! [Open an issue](htt
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgolain-io%2Fmqtt.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgolain-io%2Fmqtt?ref=badge_large)
